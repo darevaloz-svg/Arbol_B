@@ -1,14 +1,5 @@
 # Proyecto Árbol B en Python
 
-## Integrantes
-
-| Nombre | Carnet | Participación |
-|--------|---------|---------------|
-| Integrante 1 | 2025XXXX | 50% |
-| Integrante 2 | 2025XXXX | 50% |
-
----
-
 ## Requisitos
 
 Instalar Graphviz:
