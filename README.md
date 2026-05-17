@@ -1,16 +1,5 @@
 # Proyecto Árbol B en Python
 
-## Requisitos
-
-Instalar Graphviz:
-
-https://graphviz.org/download/
-
-Instalar dependencias:
-
-pip install -r requirements.txt
-
----
 
 ## Ejecutar proyecto
 
